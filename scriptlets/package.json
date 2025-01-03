@@ -1,0 +1,12 @@
+{
+  "name": "pie-scriptlets",
+  "version": "1.0.0",
+  "description": "Pie's scriptlets repository. Built scriptlets are built from https://github.com/AdguardTeam/Scriptlets with slight modification.",
+  "main": "example.js",
+  "type": "module",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "author": "PIE",
+  "license": "GPL-3.0"
+}
