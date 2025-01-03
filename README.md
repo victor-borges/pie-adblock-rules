@@ -23,7 +23,7 @@ We will continue to develop tools to make adblocking accessible for the public, 
 
 To test the scriptlets, see the example in `scriptlets/example.js` or run while inside `scriptlets/` with:
 ```sh
-node run test
+npm run test
 ```
 
 ## About
