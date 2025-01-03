@@ -15,7 +15,7 @@ Scriptlets were built from [AdguardTeam/Scriptlets](https://github.com/AdguardTe
 Our modifications primarily include:
 * Adding deduping if the scriptlet with the same source has already been called on this page
 * Debug logging
-* Refactoring out plain "javascript"-style rules #%#(() => into scriptlet/site-unique, in favor of avoiding adding remote executable code to our rules text files
+* Refactoring out plain "javascript"-style rules #%#(() => into scriptlet/site-unique, to avoid adding remote JS snippets to our rules text files
 
 We will continue to develop tools to make adblocking accessible for the public, and commit to improving both our tools and our filterlists going forward.
 
