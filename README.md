@@ -5,6 +5,9 @@ This repo is an open-source repository of PIE's adblock rules and scriptlets rea
 ## Filterlists
 In `filterlists/`, you will find our custom text filters that include cosmetic EasyList-style rules as well as scriptlet-based rules that tackle more persistent issues on certain sites. These rules may or may not be covered by other filter lists but were generated in response to users reporting ads/annoyances on specific sites.
 
+To add our list to your adblocker's filter list rules, you can download or reference it from here!
+https://cdn.pie.org/adb-filters/pie_custom.txt
+
 ## Scriptlets
 In `scriptlets/`, you will find our scriptlet reader source code and scriptlet source functions. Pie believes this scriptlet reader to be more plug-and-play ready than the other AST-based rule readers available online. Our scriptlet reader works on both UBO and ADG style scriptlet rules.
 
